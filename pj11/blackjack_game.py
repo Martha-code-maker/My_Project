@@ -1,6 +1,6 @@
 ############### Blackjack Project #####################
 
-############### Our Blackjack House Rules #####################
+############### Blackjack House Rules #####################
 
 ## The deck is unlimited in size. 
 ## There are no jokers. 
@@ -12,8 +12,8 @@
 ## Cards are not removed from the deck as they are drawn.
 
 
-#Hint 3: Download and read this flow chart I've created: 
-#   https://drive.google.com/uc?export=download&id=1rDkiHCrhaf9eX7u7yjM1qwSuyEk-rPnt
+#Download and read this flow chart I've created: 
+#https://drive.google.com/uc?export=download&id=1rDkiHCrhaf9eX7u7yjM1qwSuyEk-rPnt
 
 import random
 #from replit import clear

@@ -39,8 +39,8 @@ ___________________________________________________________________
 ## Project11
 [blackjack_game](https://github.com/Martha-code-maker/my_project/blob/master/pj11/blackjack_game.py)
 
-##Project12
+## Project12
 [guess_the_number](https://github.com/Martha-code-maker/my_project/blob/master/pj12/guess_the_number.py)
 
-##Project13
+## Project13
 [guess higher lower](https://github.com/Martha-code-maker/my_project/blob/master/pj13/higher_lower_game.py)

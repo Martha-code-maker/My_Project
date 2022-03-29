@@ -1,7 +1,6 @@
 # my_project
 do my project for practicing python
 
-
 ___________________________________________________________________
 
 ## Project1
@@ -30,3 +29,18 @@ ___________________________________________________________________
 
 ## Project8
 [caesar password](https://github.com/Martha-code-maker/my_project/tree/master/pj8)
+
+## Project9
+[secret auction program](https://github.com/Martha-code-maker/my_project/blob/master/pj9/secret_auction_program.py)
+
+## Project10
+[calculator](https://github.com/Martha-code-maker/my_project/blob/master/pj10/calculator.py)
+
+## Project11
+[blackjack_game](https://github.com/Martha-code-maker/my_project/blob/master/pj11/blackjack_game.py)
+
+## Project12
+[guess_the_number](https://github.com/Martha-code-maker/my_project/blob/master/pj12/guess_the_number.py)
+
+## Project13
+[guess higher lower](https://github.com/Martha-code-maker/my_project/blob/master/pj13/higher_lower_game.py)
